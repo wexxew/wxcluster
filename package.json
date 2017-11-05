@@ -1,0 +1,25 @@
+{
+  "name": "wxcluster",
+  "version": "1.0.0",
+  "description": "Clusterize functions in any Node.js application",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node ./test1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wexxew/wxcluster.git"
+  },
+  "keywords": [
+    "cluster"
+  ],
+  "author": "wexxew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wexxew/wxcluster/issues"
+  },
+  "homepage": "https://github.com/wexxew/wxcluster#readme"
+}
